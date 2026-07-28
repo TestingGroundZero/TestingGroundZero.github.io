@@ -1,0 +1,15 @@
+{
+  "name": "thegospel.ca",
+  "short_name": "thegospel.ca",
+  "start_url": "index.html",
+  "display": "standalone",
+  "background_color": "#fbfcfa",
+  "theme_color": "#12313a",
+  "icons": [
+    {
+      "src": "assets/icons/favicon.svg",
+      "sizes": "any",
+      "type": "image/svg+xml"
+    }
+  ]
+}
